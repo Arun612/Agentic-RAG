@@ -1,6 +1,6 @@
 # NEXUS — Neuro-Episodic Expert Unified System
 
-> A Multi-Agent Agentic RAG System with 7 Unique Innovations
+> A Multi-Agent Agentic RAG System 
 
 ## 🚀 Quick Start
 
